@@ -195,10 +195,11 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👥 Autores
 
-- Tu Nombre - Desarrollo inicial
+- Bryan Alexander Alarcón Iza, Elias Mateo Espinosa Vera
 
 ## 🙏 Agradecimientos
 
 - Spring Boot Team
 - React Team
+
 - Camunda Team 
